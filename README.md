@@ -1,14 +1,15 @@
 # 제로블루투스클리너
 
-**[⬇ 베타 3 APK 다운로드](https://github.com/ZERO-hms/zero-bluetooth-cleaner/releases/download/v0.5.0-beta.3/zero-bluetooth-cleaner-0.5.0-beta.3.apk)** · [설치 안내](#설치-안내) · [변경 사항](https://github.com/ZERO-hms/zero-bluetooth-cleaner/releases/tag/v0.5.0-beta.3)
+**[⬇ 베타 4 APK 다운로드](https://github.com/ZERO-hms/zero-bluetooth-cleaner/releases/download/v0.5.0-beta.4/zero-bluetooth-cleaner-0.5.0-beta.4.apk)** · [설치 안내](#설치-안내) · [변경 사항](https://github.com/ZERO-hms/zero-bluetooth-cleaner/releases/tag/v0.5.0-beta.4)
 
 갤럭시에 등록된 블루투스 기기가 많을 때, 계속 쓸 기기를 잠그고 나머지 기기의 페어링을 한 번에 해제할 수 있습니다. **갤럭시 One UI 7.0 이상(Android 15 이상)**을 대상으로 합니다.
 
 ## 설치 안내
 
-1. 위 버튼으로 **zero-bluetooth-cleaner-0.5.0-beta.3.apk**를 받아 엽니다. 기존 베타 2 사용자는 앱을 지우지 않고 업데이트할 수 있습니다.
+1. 위 버튼으로 **zero-bluetooth-cleaner-0.5.0-beta.4.apk**를 받아 엽니다. 기존 베타 사용자는 앱을 지우지 않고 업데이트할 수 있습니다.
 2. 설치 허용을 요청하면 갤럭시 **설정 → 보안 및 개인정보 보호 → 기타 보안 설정 → 출처를 알 수 없는 앱 설치**에서 APK를 여는 앱(예: 내 파일, Chrome)을 선택하고 **이 출처 허용**을 켭니다. 설치 후 같은 곳에서 다시 끄세요.
 3. 앱을 열고 **근처 기기**를 허용하면 목록과 연결 기록을 볼 수 있습니다. **알림** 권한은 페어링 코드 입력과 새 버전 알림에 사용합니다. 업데이트 수동 확인은 알림을 꺼도 사용할 수 있습니다.
+4. 기기 등록을 해제하려면 첫 실행 화면에서 **설정 안내 열기**를 눌러 무선 디버깅을 연결하세요. **나중에**를 눌러도 **⚙ 설정 → 무선 디버깅 설정**에서 같은 안내를 열 수 있습니다.
 
 <details><summary>설치가 차단될 때</summary>
 
@@ -38,6 +39,6 @@
 
 ## 현재 버전
 
-**0.5.0-beta.3** · GitHub 베타 배포를 시작하고, 앱의 설치 안내에 공식 배포처 바로가기를 추가했습니다. 기존 베타와 같은 개발용 인증서로 서명했습니다.
+**0.5.0-beta.4** · 제목 아래에 앱의 목적을 한 줄로 표시하고, 첫 실행 화면에 무선 디버깅 안내와 설정 바로가기를 추가했습니다. 기존 베타와 같은 개발용 인증서로 서명했습니다.
 
-APK SHA-256: `2e8ea1fcc876eaa3e50a08210869babdc4f93b581da3f87396f1d931b441b589`
+APK SHA-256: `56ec70f0cfc36c10fbd5530e4ac2f68199fdbfdb5c798c962d42e112b0152b85`
